@@ -34,7 +34,10 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="1067" height="630" alt="Screenshot 2025-10-01 232856" src="https://github.com/user-attachments/assets/e4e751a8-06c3-47d2-a0f1-5b9df93cbf57" />
+<img width="1375" height="634" alt="Screenshot 2025-10-01 232903" src="https://github.com/user-attachments/assets/90969472-2c2a-49b5-8ce7-a9578aa6eb69" />
+<img width="1243" height="774" alt="Screenshot 2025-10-01 232912" src="https://github.com/user-attachments/assets/e3c3c978-2e3b-43c3-8c2b-4ca5a2e0a187" />
+
 
 
 ## Kesimpulan
