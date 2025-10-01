@@ -11,6 +11,8 @@ string anu(int x) {
         return angka[x/10] + " puluh";
     } else if (x < 100) {
         return angka[x/10] + " puluh " + angka[x%10];
+    } else if (x == 100) {
+        return "seratus";
     }
     return "";
 }
