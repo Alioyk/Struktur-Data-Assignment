@@ -41,7 +41,7 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 
 
 ## Kesimpulan
-Ringkasan dan interpretasi pandangan kalia dari hasil praktikum dan pembelajaran yang didapat[1].
+Kode berjalan dengan baik.
 
 ## Referensi
 https://www.w3schools.com/cpp/cpp_arrays.asp
