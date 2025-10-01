@@ -3,11 +3,11 @@
 
 ## Dasar Teori
 
-Berikan penjelasan teori terkait materi modul ini dengan bahasa anda sendiri serta susunan yang terstruktur per topiknya.
+Teori materi terkait modul pengenalan bahasa c++.
 
 ## Guided 
 
-### 1. [Nama Topik]
+### 1. [Pengenalan Bahasa C++]
 
 C++
 #include <iostream>
