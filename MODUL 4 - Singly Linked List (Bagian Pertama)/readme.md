@@ -22,7 +22,6 @@ Teori materi terkait Modul Singly Linked List (Bagian Pertama).
 #### Full code Screenshot:
 1.
 <img width="670" height="697" alt="image" src="https://github.com/user-attachments/assets/8316ca2f-7cc3-4bfe-8540-4c1f8a2ca698" />
-
 <img width="692" height="793" alt="image" src="https://github.com/user-attachments/assets/9594f7eb-3230-46bd-b877-8e47ba9b468e" />
 <img width="663" height="668" alt="image" src="https://github.com/user-attachments/assets/1c83e625-5a49-41e3-8f54-95502e58ddaf" />
 
