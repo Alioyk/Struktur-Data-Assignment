@@ -13,7 +13,6 @@ Teori materi terkait Modul Singly Linked List (Bagian Kedua).
 <img width="744" height="504" alt="image" src="https://github.com/user-attachments/assets/edb2266a-b1b4-4772-9a2f-c6c47e452dc9" />
 
 #### Output:
-1.
 <img width="370" height="110" alt="image" src="https://github.com/user-attachments/assets/a4f3c253-d2ee-42da-80e5-d70764a77ac1" />
 
 #### Full code Screenshot:
