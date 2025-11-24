@@ -9,7 +9,7 @@ Teori materi terkait Modul Doubly Linked List (Bagian Kedua).
 
 ### 1. [Soal]
 
-<img width="1021" height="515" alt="image" src="https://github.com/user-attachments/assets/f7c2379b-23d4-4d9d-8963-fe62aec91d89" />
+<img width="785" height="403" alt="image" src="https://github.com/user-attachments/assets/b7ffe4a8-3363-429a-a6db-a6e271652cc9" />
 <img width="716" height="731" alt="image" src="https://github.com/user-attachments/assets/f0d0c66b-b589-4a20-9e9b-938f6184e260" />
 
 #### Output:
