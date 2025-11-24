@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Singly Linked List (Bagian Kedua)</h1>
+# <h1 align="center">Laporan Praktikum Modul Doubly Linked List (Bagian Kedua)</h1>
 <p align="center">Ali Abdul Fattah 'Alim Kautsar</p>
 
 ## Dasar Teori
