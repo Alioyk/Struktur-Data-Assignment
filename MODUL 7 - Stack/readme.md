@@ -9,29 +9,30 @@ Teori materi terkait Modul Stack
 
 ### 1. [Soal]
 
-<img width="785" height="403" alt="image" src="https://github.com/user-attachments/assets/b7ffe4a8-3363-429a-a6db-a6e271652cc9" />
-<img width="716" height="731" alt="image" src="https://github.com/user-attachments/assets/f0d0c66b-b589-4a20-9e9b-938f6184e260" />
+<img width="785" height="605" alt="image" src="https://github.com/user-attachments/assets/99a9fcfe-fde5-4560-b64b-cca0543084a2" />
+<img width="784" height="552" alt="image" src="https://github.com/user-attachments/assets/73225d6c-092c-4649-96da-e2d2e107802a" />
 
 #### Output:
 1.
-<img width="835" height="617" alt="image" src="https://github.com/user-attachments/assets/897b67f4-a5d6-4e68-8763-f9c0a8f51fa1" />
+<img width="618" height="96" alt="image" src="https://github.com/user-attachments/assets/8bf8a2fe-5975-46b9-ad34-a55bee3af0e8" />
+
 2.
-<img width="817" height="127" alt="image" src="https://github.com/user-attachments/assets/d0172c38-e448-4f44-b1f5-46b5007fd03d" />
+<img width="613" height="99" alt="image" src="https://github.com/user-attachments/assets/3e988773-a285-459c-a43f-13f1a1cd260e" />
+
 3.
-<img width="814" height="223" alt="image" src="https://github.com/user-attachments/assets/47bd45b4-5e3f-4099-a670-95558d4fca02" />
+<img width="613" height="110" alt="image" src="https://github.com/user-attachments/assets/f0b2b560-4b91-4a46-a4e6-344b07bd37fd" />
+
 
 #### Full code Screenshot:
-1. Doublylist.h
-<img width="861" height="794" alt="image" src="https://github.com/user-attachments/assets/2d999d78-eb6d-4e8e-bf96-854785649009" />
+1. stack.h
+<img width="889" height="611" alt="image" src="https://github.com/user-attachments/assets/985b3134-8b9e-4a06-9ac4-fb1edca5739f" />
 
-2. Doublylist.cpp
-<img width="910" height="899" alt="image" src="https://github.com/user-attachments/assets/48d1b060-9931-460f-a092-9c1c4430857b" />
-<img width="902" height="254" alt="image" src="https://github.com/user-attachments/assets/2d6d113a-a9c1-47c5-bd3d-b796d4659231" />
-<img width="1021" height="892" alt="image" src="https://github.com/user-attachments/assets/9b1a4696-94f3-44f3-ba7d-a5fed456d8e1" />
+2. stack.cpp
+<img width="932" height="848" alt="image" src="https://github.com/user-attachments/assets/0743db20-2610-4d96-b67f-61948c3bb85f" />
+<img width="924" height="681" alt="image" src="https://github.com/user-attachments/assets/47243538-b855-4c2e-b852-5d19ad294706" />
 
 3. main.cpp
-<img width="945" height="774" alt="image" src="https://github.com/user-attachments/assets/f3396a49-1fa7-43c2-9a14-9451fe967c23" />
-<img width="966" height="733" alt="image" src="https://github.com/user-attachments/assets/0d3367c7-4af9-490a-80fd-815b345c34f4" />
+<img width="923" height="885" alt="image" src="https://github.com/user-attachments/assets/c00c938a-f681-4b48-95be-6ac14f5fdead" />
 
 ## Kesimpulan
 Kode berjalan dengan baik.
