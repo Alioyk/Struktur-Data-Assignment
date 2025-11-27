@@ -27,7 +27,8 @@ Teori materi terkait Modul Queue
 <img width="1035" height="463" alt="image" src="https://github.com/user-attachments/assets/8d678543-c2a7-4d39-be0e-ec138b86029d" />
 
 2. queue.cpp
-"\n"(Alternatif 1)
+
+(Alternatif 1)
 <img width="1153" height="889" alt="image" src="https://github.com/user-attachments/assets/6fc03f16-2e2b-4d9a-ad75-9f261f707d19" />
 
 (Alternatif 2)
