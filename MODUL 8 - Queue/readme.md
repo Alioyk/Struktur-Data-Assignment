@@ -12,13 +12,13 @@ Teori materi terkait Modul Queue
 <img width="989" height="834" alt="image" src="https://github.com/user-attachments/assets/7fbbfb3a-9551-4299-a99b-e4bb80bbe231" />
 
 #### Output:
-1.
+1. (Alternatif 1)
 <img width="689" height="285" alt="image" src="https://github.com/user-attachments/assets/b3bf1868-8e31-40d5-97b0-3609acf7786f" />
 
-2.
+2. (Alternatif 2)
 <img width="698" height="284" alt="image" src="https://github.com/user-attachments/assets/2b0c22b4-e5cd-4439-ad59-1c79430fb7e0" />
 
-3.
+3. (Alternatif 3)
 <img width="696" height="282" alt="image" src="https://github.com/user-attachments/assets/e73325ec-6347-4582-876f-ce4e31d29bb9" />
 
 
