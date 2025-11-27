@@ -47,4 +47,4 @@ Kode berjalan dengan baik.
 https://www.w3schools.com/cpp/cpp_arrays.asp
 https://www.w3schools.com/cpp/
 https://id.wikipedia.org/wiki/C%2B%2B
-Modul 7 - Stack
+Modul 8 - Queue
